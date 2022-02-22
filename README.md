@@ -1,6 +1,3 @@
-# ⚠️ WARNING ⚠️
-While this project did pass the Moulinette with a grade of 120, I've been informed by my peers that I may have some issues with certain portions of this project and I haven't revised all of them completely. Feel free to check out the code and gain some ideas but please refrain from copying functions that use any method of memory allocation. And for the time being, please avoid using my Makefile as a reference since it also needs to be revised.
-
 # 42 - FT_PRINTF PROJECT 
 
 ### Introduction
